@@ -1,0 +1,11 @@
+*.db
+*.sql
+*.txt
+__pycache__
+*.jpg
+*.img
+nohup.out
+config.py
+main_copy.py
+new_main.py
+*.pem
